@@ -165,24 +165,6 @@
 		"constant": false,
 		"inputs": [
 			{
-				"name": "target",
-				"type": "address"
-			},
-			{
-				"name": "mintedAmount",
-				"type": "uint256"
-			}
-		],
-		"name": "mintToken",
-		"outputs": [],
-		"payable": false,
-		"stateMutability": "nonpayable",
-		"type": "function"
-	},
-	{
-		"constant": false,
-		"inputs": [
-			{
 				"name": "_from",
 				"type": "address"
 			},
